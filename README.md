@@ -21,3 +21,4 @@ And then there’s the recent moments—the Lakers' 2020 NBA Championship victor
 LeBron, it’s not just about the stats, the titles, or the records—it’s the moments. The moments where you make everyone around you believe that anything is possible. From your first dunk as a rookie to your iconic game-winning shots, to the final buzzer in each playoff series, you’ve given us so much more than basketball. You've shown us that greatness is about showing up, no matter the odds, no matter the critics, and delivering in ways we never thought possible.
 
 You’ve given us moments that will live on forever in the NBA’s history books and in our hearts. Watching you play has been an honor, and I look forward to seeing even more magical moments before you hang up your jersey for good.
+![](/assets/leking.jpg "my Glorious King") 
