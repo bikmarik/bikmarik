@@ -33,9 +33,9 @@ You’ve given us moments that will live on forever in the NBA’s history books
 ![](/assets/leking.jpg "my Glorious King") 
 
 
-```
+
 HAPPY BIRTHDAY DANIEL!!! did you really think I’d let this day pass quietly? I know the kind of power you vibe with, the kind that keeps climbing no matter what. So here’s your gift, a profile picture wrapped in that same aura, use it anywhere, you know the rule, EVEN IF THE STAIRS NEVER END, WE KEEP CLIMBING!!! 
-```
+
 ![](/assets/ayanokoji-don't-react-ayanokoji.gif "Mentality") 
 
 ```
