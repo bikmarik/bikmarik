@@ -6,9 +6,12 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("hello world")
+    fmt.Println("Nah, I'd larp.")
 }
 ```
+
+![](/assets/shinjuku-yuji-yuji-itadori.gif "Kaisen") 
+
 Dear LeBron
 
 Where do I even begin when trying to capture the magic of your career? The truth is, your journey has been filled with so many unforgettable moments that it feels impossible to narrow them down to just a few. But I'll try, because every single one of them speaks to your greatness.
@@ -30,12 +33,18 @@ You’ve given us moments that will live on forever in the NBA’s history books
 ![](/assets/leking.jpg "my Glorious King") 
 
 
-Would you study?  
-Nah, I'd larp.  
-
-![](/assets/shinjuku-yuji-yuji-itadori.gif "Kaisen") 
-
 ```
 HAPPY BIRTHDAY DANIEL!!! did you really think I’d let this day pass quietly? I know the kind of power you vibe with, the kind that keeps climbing no matter what. So here’s your gift, a profile picture wrapped in that same aura, use it anywhere, you know the rule, EVEN IF THE STAIRS NEVER END, WE KEEP CLIMBING!!! 
 ```
 ![](/assets/ayanokoji-don't-react-ayanokoji.gif "Mentality") 
+
+```
+Teddy sold me crack behind Dojima's house.
+```
+![](/assets/ball_knowledge.jpg "Drip") 
+
+```
+"You can never name me an anime that has better drip than Bleach" Here -->
+```
+
+![](/assets/drip.jpg "Drip") 
