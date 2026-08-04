@@ -38,13 +38,4 @@ HAPPY BIRTHDAY DANIEL!!! did you really think I’d let this day pass quietly? I
 
 ![](/assets/ayanokoji-don't-react-ayanokoji.gif "Mentality") 
 
-```
-Teddy sold me crack behind Dojima's house.
-```
-![](/assets/ball_knowledge.jpg "Drip") 
 
-```
-"You can never name me an anime that has better drip than Bleach" Here -->
-```
-
-![](/assets/drip.jpg "Drip") 
