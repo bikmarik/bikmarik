@@ -22,9 +22,8 @@
 - [x] **Bury computer in concrete** — **OPSEC LEVEL: GOD** 🗿
 
 **PALANTIR'S BIGGEST THREAT** ⚠️🥷
-|
-|
-v
+
+vvvv
 ```golang
 package main
 
