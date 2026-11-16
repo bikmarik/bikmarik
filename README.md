@@ -1,5 +1,29 @@
 ![](/assets/HeaderBGJoJos_fromjojowiki.png "https://jojowiki.com") 
-![](/assets/excusemesir-daniel-stairs.jpg ) 
+# 🥷 HOLY OPSEC GUIDELINE
+- [x] **Brave + Proton VPN** — ISP defeated, CIA confused.
+- [x] **Incognito mode** — browser legally cannot remember you.
+- [x] **Delete Claude chats** — evidence atomized.
+- [x] **`history -c`** — forensic investigators unemployed.
+- [x] **DuckDuckGo** — Google has forgotten your birth certificate.
+- [x] **Tape webcam** — NSA satellite forced to use thermal imaging.
+- [x] **Random MAC address** — network admin sees `Unknown Device` and resigns.
+- [x] **Discord Invisible** — witness protection activated.
+- [x] **Arch Linux** — 97% of investigators can't reproduce your environment.
+- [x] **Colemak-DH** — remaining 3% physically cannot type your password.
+- [x] **Hoodie + ThinkPad in café corner** — +40 stealth.
+- [x] **`sudo pacman -S tor`** — citizenship revoked, corporeal form abandoned.
+- [x] **Delete `/var/log`** — computer develops amnesia.
+- [x] **Chain three VPNs** — packets arrive in 2028.
+- [x] **Turn monitor away from window** — TEMPEST defeated by furniture placement.
+- [x] **Name Wi-Fi `FBI Surveillance Van`** — FBI legally required to leave.
+- [x] **Never accept cookies** — GDPR final boss defeated.
+- [x] **Unplug Ethernet** — **HOLY AIR GAP** ✝️
+- [x] **Unplug computer** — attack surface reduced by 100%.
+- [x] **Bury computer in concrete** — **OPSEC LEVEL: GOD** 🗿
+
+**PALANTIR'S BIGGEST THREAT** ⚠️🥷
+
+vvvv
 ```golang
 package main
 
@@ -9,8 +33,6 @@ func main() {
     fmt.Println("Nah, I'd larp.")
 }
 ```
-
-![](/assets/shinjuku-yuji-yuji-itadori.gif "Kaisen") 
 
 Dear LeBron
 
@@ -33,18 +55,9 @@ You’ve given us moments that will live on forever in the NBA’s history books
 ![](/assets/leking.jpg "my Glorious King") 
 
 
-```
+
 HAPPY BIRTHDAY DANIEL!!! did you really think I’d let this day pass quietly? I know the kind of power you vibe with, the kind that keeps climbing no matter what. So here’s your gift, a profile picture wrapped in that same aura, use it anywhere, you know the rule, EVEN IF THE STAIRS NEVER END, WE KEEP CLIMBING!!! 
-```
+
 ![](/assets/ayanokoji-don't-react-ayanokoji.gif "Mentality") 
 
-```
-Teddy sold me crack behind Dojima's house.
-```
-![](/assets/ball_knowledge.jpg "Drip") 
 
-```
-"You can never name me an anime that has better drip than Bleach" Here -->
-```
-
-![](/assets/drip.jpg "Drip") 
